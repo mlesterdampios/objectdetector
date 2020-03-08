@@ -1,0 +1,17 @@
+C:\Users\dev\source\repos\ObjectDetector\ObjectDetector\obj\Debug\MainWindow.g.cs
+C:\Users\dev\source\repos\ObjectDetector\ObjectDetector\obj\Debug\SplashScreen.g.cs
+C:\Users\dev\source\repos\ObjectDetector\ObjectDetector\obj\Debug\App.g.cs
+C:\Users\dev\source\repos\ObjectDetector\ObjectDetector\obj\Debug\ObjectDetector_MarkupCompile.cache
+C:\Users\dev\source\repos\ObjectDetector\ObjectDetector\obj\Debug\ObjectDetector_MarkupCompile.lref
+C:\Users\dev\source\repos\ObjectDetector\ObjectDetector\bin\Debug\ObjectDetector.exe
+C:\Users\dev\source\repos\ObjectDetector\ObjectDetector\bin\Debug\ObjectDetector.pdb
+C:\Users\dev\source\repos\ObjectDetector\ObjectDetector\obj\Debug\MainWindow.baml
+C:\Users\dev\source\repos\ObjectDetector\ObjectDetector\obj\Debug\SplashScreen.baml
+C:\Users\dev\source\repos\ObjectDetector\ObjectDetector\obj\Debug\ObjectDetector.g.resources
+C:\Users\dev\source\repos\ObjectDetector\ObjectDetector\obj\Debug\ObjectDetector.Properties.Resources.resources
+C:\Users\dev\source\repos\ObjectDetector\ObjectDetector\obj\Debug\ObjectDetector.csproj.GenerateResource.cache
+C:\Users\dev\source\repos\ObjectDetector\ObjectDetector\obj\Debug\ObjectDetector.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\ObjectDetector\ObjectDetector\obj\Debug\ObjectDetector.exe
+C:\Users\dev\source\repos\ObjectDetector\ObjectDetector\obj\Debug\ObjectDetector.pdb
+C:\Users\dev\source\repos\ObjectDetector\ObjectDetector\obj\Debug\map.g.cs
+C:\Users\dev\source\repos\ObjectDetector\ObjectDetector\obj\Debug\map.baml

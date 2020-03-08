@@ -1,0 +1,17 @@
+﻿<Window x:Class="ObjectDetector.SplashScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ObjectDetector"
+        mc:Ignorable="d"
+        Title="SplashScreen" Height="450" Width="800" ResizeMode="NoResize" WindowStyle="None"  
+        WindowStartupLocation="CenterScreen" BorderThickness="5" BorderBrush="AliceBlue" Topmost="true">
+    <Window.Background>
+        <ImageBrush ImageSource="IO-DESIGNGUIDE_2x1.max-4000x2000.jpegquality-90.png"/>
+    </Window.Background>
+    <Grid>
+        <ProgressBar x:Name="prgssbrLoadingBar" HorizontalAlignment="Left" Height="20" Margin="10,410,0,0" VerticalAlignment="Top" Width="770" Maximum="1"/>
+
+    </Grid>
+</Window>
